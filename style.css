@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  font-family: baskerville;
+}
+
+img {
+  border: 5px solid white;
+  padding: 4px;
+  width: 70%;
+}
+
+h1 {
+  color: rgb(255, 169, 234);
+  text-transform: uppercase;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+p {
+  color: white;
+  font-size: 1rem;
+  margin-top: 25px;
+}
+
+hr {
+  margin: 0px auto;
+  width: 35%;
+  border: none;
+  height: 1px;
+  background-color: rgb(255, 169, 234);
+}
+
+#poster {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
